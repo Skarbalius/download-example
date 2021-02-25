@@ -1,2 +1,2 @@
 hello: hello.c
-	g++ hello.c -o hello
+	$(CC) hello.c -o hello
